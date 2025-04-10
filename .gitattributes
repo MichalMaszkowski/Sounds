@@ -1,0 +1,2 @@
+# ignore metadata from .ipynb notebooks
+*.ipynb filter=nbstripout
